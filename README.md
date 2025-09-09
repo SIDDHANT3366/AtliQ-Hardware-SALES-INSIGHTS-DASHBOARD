@@ -51,6 +51,16 @@ Removed negative & zero sales amounts.
 Standardized all currencies to INR.
 Cleaned dimension tables (removed blank zones, normalized columns).
 
+✨ Features
+
+📊 Automated Dashboards – Provides real-time sales and profit insights with the latest available data.
+🗂️ Star Schema Data Model – Cleaned and structured data for efficient analysis.
+🔍 Market & Zone Insights – Revenue and profit contribution by market, zone, customer, and product.
+📈 Trend Analysis – Year-over-year revenue comparison with profit margin overlay.
+🎯 Dynamic Profit Targeting – Adjustable profit margin parameter to flag underperforming zones/products.
+🛒 Customer Segmentation – Separate insights for Brick & Mortar and E-Commerce customers.
+⏱️ Time Savings – Reduces analyst effort by automating manual reporting, saving at least 20% of their time.
+
 🏗️ Data Modeling
 
 Built a Star Schema connecting dimension tables with the fact table (transactions) using common attributes.
