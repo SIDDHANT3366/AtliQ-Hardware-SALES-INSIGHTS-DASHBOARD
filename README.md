@@ -1,4 +1,7 @@
 📊 AtliQ Hardware Sales Insights Dashboard
+
+An interactive Power BI dashboard built for AtliQ Hardware to analyze sales, profit, and performance trends across markets and customer types. It automates manual reporting, provides real-time insights, and supports the sales team in making data-driven decisions.
+
 📌 Project Overview
 
 This project focuses on building an automated Sales Insights Dashboard for AtliQ Hardware in Power BI. The main objective is to support the Sales Team and related stakeholders in making data-driven decisions, while also reducing manual efforts in data gathering and reporting.
