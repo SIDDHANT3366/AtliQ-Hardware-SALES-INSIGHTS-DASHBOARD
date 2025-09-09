@@ -82,7 +82,7 @@ Example: Target set at 3% → Central & North Zones highlighted in red.
 
 📷 Dashboard Snapshots
 
-Key Insights Page → P1.png ()
+Key Insights Page → P1.png (https://github.com/SIDDHANT3366/AtliQ-Hardware-SALES-INSIGHTS-DASHBOARD/blob/main/P1.png)
 Profit Analysis Page → P2.png ()
 Performance Analysis Page → P3.png ()
 
